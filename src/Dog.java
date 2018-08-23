@@ -6,7 +6,7 @@ public class Dog  extends Animal implements Pets, Pullers {
 		// TODO Auto-generated constructor stub
 	}
 
-	private String breed;
+	private String breed; 
 
 	//Generating Getters and Setters
 	public String getBreed() {

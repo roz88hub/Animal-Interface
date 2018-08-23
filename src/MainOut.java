@@ -14,7 +14,7 @@ public class MainOut {
 			 }
 			  }
 			 System.out.println(x);
-			 
+			  
 		 
 	 }
 	

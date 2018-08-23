@@ -11,7 +11,7 @@ public abstract class Animal {
 	public void setName(String name) {
 		this.name = name;
 	}
-	public int getAge() {
+	public int getAge() { 
 		return age;
 	}
 	public void setAge(int age) {
