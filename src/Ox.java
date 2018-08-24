@@ -11,7 +11,7 @@ public class Ox  extends Animal implements Pullers{
 	//creating getters and setters
 	public int getCapacity() {
 		return capacity;
-	} 
+	}  
 
 	public void setCapacity(int capacity) {
 		this.capacity = capacity;

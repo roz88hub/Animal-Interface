@@ -4,7 +4,7 @@ public class Dog  extends Animal implements Pets, Pullers {
 	public Dog(String name, int age) {
 		super(name, age);
 		// TODO Auto-generated constructor stub
-	}
+	} 
 
 	private String breed; 
 
